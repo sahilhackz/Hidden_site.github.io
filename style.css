@@ -1,0 +1,19 @@
+
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+header h1 .green {
+  color: neon green;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background: limegreen;
+  color: black;
+  margin: 5px;
+  text-decoration: none;
+  border-radius: 5px;
+}
